@@ -1,0 +1,18 @@
+//POST http://localhost:8000/create
+
+//Content-Type: "application/json"
+
+//{
+    ///"firstName":"Benedict",
+    //"lastName": "Adu",
+    //"email":"adu@gmail.com",
+    //"password":"57578",
+    //"location":"aboso",
+    //"dept": "marketing",
+    //"is_admin": 0,
+    //"registerDate":"2019-02-05",
+//}
+
+
+Get http://localhost:8000/table2
+
